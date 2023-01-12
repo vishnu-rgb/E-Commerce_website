@@ -1,4 +1,4 @@
-## Welcome to F Store Ecommerce Website
+## Welcome to F Store Ecommerce Website {https://f-store007.netlify.app/}
 
 ### Features:
 
@@ -36,7 +36,7 @@ For login and Registration
 
 
 1. Netlify {https://f-store007.netlify.app/}
-2. vercel 
+
 
 
 ### How to start?
