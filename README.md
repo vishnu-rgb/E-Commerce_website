@@ -35,7 +35,7 @@ For login and Registration
 ---
 
 
-1. Netlify 
+1. Netlify {https://f-store007.netlify.app/}
 2. vercel 
 
 
