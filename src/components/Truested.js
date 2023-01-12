@@ -4,7 +4,7 @@ const Truested = () => {
   return (
     <Wrapper className="brand-section">
     <div className="container">
-      <h3>Trusted By 1000+ Companies</h3>
+      <h3>Trusted By many Companies</h3>
       <div className="brand-section-slider">
         {/* my 1st img  */}
         <div className="slide">

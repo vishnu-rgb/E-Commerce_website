@@ -11,7 +11,7 @@ const HeroSection = ({myData}) => {
         <div className="grid grid-two-column">
             <div className="hero-section-data">
             <p className="intro-data">Welcome to </p>
-                <h1>{name}</h1>
+                <h1>f Store</h1>
                 <p>Whoever said cash can’t purchase joy basically didn’t know where to go shopping.
                 Shopping is somewhat of a loosening upside interest for me, or, in other words for the bank balance.</p>
              <NavLink to="/products">

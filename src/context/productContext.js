@@ -1,7 +1,7 @@
 import { createContext, useContext, useEffect, useReducer } from "react";
 import axios from "axios";
 import reducer from "../Reducer/productReducer";
-
+import React, { Component }  from 'react';
 const AppContext = createContext();
 
 const API = "https://api.pujakaitem.com/api/products";

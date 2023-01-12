@@ -1,7 +1,7 @@
 import { createContext, useContext, useReducer, useEffect } from "react";
 import { useProductContext } from "./productContext";
 import reducer from "../Reducer/filterReducer";
-
+import React, { Component }  from 'react';
 const FilterContext = createContext();
 
 const initialState = {

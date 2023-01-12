@@ -3,7 +3,7 @@ import { useFilterContext } from "../context/filter_context";
 import { FaCheck } from "react-icons/fa";
 import FormatPrice from "../Helpers/FormatPrice";
 import { Button } from "../styles/Button";
-
+import React, { Component }  from 'react';
 const FilterSection = () => {
   const {
     filters: { text, category, color, price, maxPrice, minPrice },

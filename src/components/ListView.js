@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import styled from "styled-components";
 import FormatPrice from "../Helpers/FormatPrice";
 import { Button } from "../styles/Button";
-
+import React, { Component }  from 'react';
 const ListView = ({ products }) => {
   return (
     <Wrapper className="section">

@@ -3,7 +3,7 @@ import FilterSection from "./components/FilterSection";
 import ProductList from "./components/ProductList";
 import Sort from "./components/Sort";
 import { useFilterContext } from "./context/filter_context";
-
+import React, { Component }  from 'react';
 const Products = () => {
  
   return (

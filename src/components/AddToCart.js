@@ -5,7 +5,7 @@ import CartAmountToggle from "./CartAmountToggle";
 import { NavLink } from "react-router-dom";
 import { Button } from "../styles/Button";
 import { useCartContext } from "../context/cart_context";
-
+import React, { Component }  from 'react';
 const AddToCart = ({ product }) => {
   const { addToCart } = useCartContext();
 
