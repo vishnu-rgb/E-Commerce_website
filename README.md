@@ -1,10 +1,5 @@
-## Welcome to Sheela Store { This store insprition is my mom} Ecommerce Website
-⚡️ [![GitHub](https://img.shields.io/github/license/preetiraj3697/Sheela_Ecommerce_Website?color=green)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) 
-![GitHub stars](https://img.shields.io/github/stars/preetiraj3697/Sheela_Ecommerce_Website?color=red) 
-![GitHub forks](https://img.shields.io/github/forks/preetiraj3697/Sheela_Ecommerce_Website)
-![Logo](https://img.shields.io/github/last-commit/preetiraj3697/Sheela_Ecommerce_Website)
-![Logo](https://img.shields.io/github/languages/code-size/preetiraj3697/Sheela_Ecommerce_Website)
-![Logo](https://img.shields.io/github/contributors/preetiraj3697/Sheela_Ecommerce_Website)
+## Welcome to F Store Ecommerce Website
+
 ### Features:
 
 ---
@@ -40,8 +35,8 @@ For login and Registration
 ---
 
 
-1. Netlify https://harmonious-squirrel-c80a4a.netlify.app
-2. vercel https://sheela-ecommerce-website.vercel.app
+1. Netlify 
+2. vercel 
 
 
 ### How to start?
@@ -83,5 +78,4 @@ npm start
   style="display: inline-block; margin: 0 auto;">
   <hr/>
 
-https://user-images.githubusercontent.com/107460745/202193167-1753d63f-8469-4e83-8bbb-a389537f605a.mp4
 
