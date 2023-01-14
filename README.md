@@ -36,7 +36,7 @@ For login and Registration
 
 
 1. Netlify 
-2. vercel 
+
 
 
 ### How to start?
